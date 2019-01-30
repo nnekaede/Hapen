@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">Hapen</string>
+    <string name="app_name">Hapen!</string>
+
+    <string-array name="homeAndDiscover">
+        <item>Home</item>
+        <item>Discover</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Upcoming Events</item>
+        <item>New Events</item>
+        <item>Saved Events</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>All Categories</item>
+        <item>Financial Aids</item>
+        <item>Scholarship</item>
+    </string-array>
+
+    <string-array name="organizations">
+        <item>All Organizations</item>
+        <item>NSBE</item>
+        <item>SWE</item>
+    </string-array>
+
 </resources>
